@@ -1,23 +1,51 @@
+
+# ADD TO CART REDUX
+
+Redux Add To Cart Web APplication:- 
+
+## Features
+
+    User Authentication: 
+
+    Product Lisit: 
+
+    Add To Cart
+
+    Price Details
+
+
+## Technologies Used:
+
+    Frontend: React.js, Redux (optional for state management), HTML5, CSS3, JavaScript
+
+    Backend: Dummy Api Json 
+    
+    Other Tools: Git for version control, npm or yarn for package management, Axios or Fetch for making API requests.
+    
+
 # Getting Started with Create React App
 
 
+![Screenshot from 2024-03-07 15-25-28](https://github.com/armanali0786/Redux-Add-To-Cart/assets/76746226/95db8ec6-9c0c-4cec-8a19-fc2a040408b8)
+
+![Screenshot from 2024-03-07 15-25-52](https://github.com/armanali0786/Redux-Add-To-Cart/assets/76746226/072d7347-af4f-4c87-8b84-95926e5db891)
+
+![Screenshot from 2024-03-07 15-26-16](https://github.com/armanali0786/Redux-Add-To-Cart/assets/76746226/77b3ed91-71f5-4c3a-ae18-ba0b44d9ce7f)
+
+![Screenshot from 2024-03-07 15-26-31](https://github.com/armanali0786/Redux-Add-To-Cart/assets/76746226/4f877b4d-e012-4f4e-83c2-29cf3b483edb)
 
 
+## Installation
 
+Install my-project with npm
 
-![Screenshot from 2024-01-06 12-32-42](https://github.com/armanali0786/E-commerce-Task/assets/76746226/62038c3c-19da-4231-8f39-601ec0e9f291)
-
-
-
-![Screenshot from 2024-01-06 12-31-56](https://github.com/armanali0786/E-commerce-Task/assets/76746226/a7f048e1-a226-4f10-be00-8ae30a369ae3)
-
-
-
-![Screenshot from 2024-01-06 12-32-04](https://github.com/armanali0786/E-commerce-Task/assets/76746226/9374cde5-0259-48aa-92d9-27e6ded7500e)
-
-
-![Screenshot from 2024-01-06 12-32-27](https://github.com/armanali0786/E-commerce-Task/assets/76746226/47b685d5-0f84-46a2-8a17-e2d4c2448a98)
-
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Run Locally
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -48,42 +76,33 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Acknowledgements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ - [Awesome Readme Templates](https://www.notion.so/templates/category/projects)
+ - [Awesome README](https://github.com/armanali0786/awesome-readme)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Authors
 
-## Learn More
+- [@Arman Ali](https://www.github.com/armanali0786)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 About Me
 
-### Code Splitting
+- 🎓 I am recently completed my **Bachelor's in Information Technology**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-### Analyzing the Bundle Size
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/armanali0786?tab=repositories)**
 
-### Making a Progressive Web App
+- 📫 How to reach me **armanali.shaikh77@gmail.com**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🔗 Links
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arman-ali-8383081ab/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Arman_Ali_01?s=09/)
